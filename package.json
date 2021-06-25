@@ -1,0 +1,9 @@
+{
+    "name": "@mono-repo/repo-1",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "@mono-repo/repo-2": "1.0.0",
+        "bootstrap": "^5.0.2"
+    }
+}
